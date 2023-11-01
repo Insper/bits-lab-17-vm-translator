@@ -1,0 +1,6 @@
+*.nasm
+*.ram
+*.hack
+*.pgm
+*.lst
+*.txt

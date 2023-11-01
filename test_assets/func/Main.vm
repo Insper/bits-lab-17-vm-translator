@@ -1,0 +1,8 @@
+#!/usr/bin/env python3
+
+function Main.main 0
+
+push temp 0
+push temp 1
+call foo 2
+pop temp 0

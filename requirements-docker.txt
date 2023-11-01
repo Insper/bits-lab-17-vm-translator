@@ -1,0 +1,2 @@
+git+https://github.com/Insper/bits-e-proc-tools
+git+https://github.com/insper-education/telemetry-pytest
